@@ -1,1 +1,7 @@
+print("Juan mola mazo")
 
+Juan = 2
+if Juan >= 4:
+    print("False")
+else:
+    print("True")
